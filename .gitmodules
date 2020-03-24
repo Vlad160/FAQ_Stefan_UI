@@ -1,0 +1,3 @@
+[submodule "mol"]
+	path = mol
+	url = https://github.com/eigenmethod/mol.git
